@@ -9,9 +9,11 @@
   "bin": {
     "login-lecture": "www.js"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
   "scripts": {
-    "start" : "node ./bin/www.js",
+    "start": "node ./bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
