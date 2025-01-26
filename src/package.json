@@ -10,7 +10,6 @@
     "login-lecture": "www.js"
   },
   "devDependencies": {
-    "prettier": "^3.4.2"
   },
   "scripts": {
     "start": "node ./bin/www.js",
